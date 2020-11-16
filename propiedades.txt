@@ -1,0 +1,15 @@
+propiedad(1,[1,5,13,24,29,31,32,33,34],'Piaggio 572').
+propiedad(1,[2,5,11,23,28,32,33],'Galvez 1300').
+propiedad(1,[3,6,10,23,28,31,33,32,35],'9 de Julio 957, Piso 14, Dpto 7').
+propiedad(1,[3,6,12,24,30,31,32,33,34],'Bv. Oroño 300, Piso 5, Dpto A').
+propiedad(1,[4,5,11,24,29,31,32,33,34],'Larrea 867').
+propiedad(1,[4,5,12,24,29,31,32,33,34],'Zuviria 5520').
+propiedad(1,[4,5,14,25,29,31,32,33,34],'Sarratea 620').
+
+propiedad(2,[1,5,14,25,30,31,32,33,34],'Massa 520').
+propiedad(2,[3,6,16,23,26,33,32,34,35],'Mariano Moreno 2047, Piso 2, Dpto. C').
+propiedad(2,[3,6,17,23,27,32,33,35],'San Juan 828, Piso 2, Dpto B').
+propiedad(2,[3,6,17,23,28,31,32,33,34,35],'Callao 1255, Piso 16, Dpto G').
+propiedad(2,[3,6,17,23,27,32,33,34,35],'Urquiza 2408, Piso 8, Dpto B').
+propiedad(2,[4,5,18,24,28,32,33,31],'Juan José Paso 7800').
+propiedad(2,[4,5,15,23,28,32,33],'Pasaje Windels 878').

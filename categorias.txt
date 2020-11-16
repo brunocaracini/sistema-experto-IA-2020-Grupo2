@@ -1,0 +1,2 @@
+categoria(1,'Venta').
+categoria(2,'Alquiler').

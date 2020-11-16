@@ -1,0 +1,44 @@
+caracteristica(1,'este en Zona Norte').
+caracteristica(2,'este en Sur').
+caracteristica(3,'este en el Centro').
+caracteristica(4,'este en Oeste').
+
+caracteristica(5,'sea una casa').
+caracteristica(6,'sea un departamento').
+
+caracteristica(7,'cueste menos de 50.000 USD.').
+caracteristica(8,'cueste entre 50.000 USD y 75.000 USD').
+caracteristica(9,'cueste entre 75.000 USD y 100.000 USD').
+caracteristica(10,'cueste entre 100.000 USD y 200.000 USD').
+caracteristica(11,'cueste entre 200.000 USD y 300.000 USD').
+caracteristica(12,'cueste entre 300.000 USD y 400.000 USD').
+caracteristica(13,'cueste entre 400.000 USD y 500.000 USD').
+caracteristica(14,'cueste 500.000 USD o mas.').
+
+caracteristica(15,'cueste menos de 15.000 ARS.').
+caracteristica(16,'cueste entre 15.000 ARS y 20.000 ARS').
+caracteristica(17,'cueste entre 20.000 ARS y 25.000 ARS').
+caracteristica(18,'cueste entre 25.000 ARS y 35.000 ARS').
+caracteristica(19,'cueste entre 35.000 ARS y 50.000 ARS').
+caracteristica(20,'cueste entre 50.000 ARS y 75.000 ARS').
+caracteristica(21,'cueste entre 75.000 ARS y 150.000 ARS').
+caracteristica(22,'cueste 150.000 ARS o mas.').
+
+caracteristica(23,'tenga un banio').
+caracteristica(24,'tenga dos banios').
+caracteristica(25,'tenga tres banios o mas').
+
+caracteristica(26,'sea un Monoambiente').
+caracteristica(27,'tenga un cuarto').
+caracteristica(28,'tenga dos cuartos').
+caracteristica(29,'tenga tres cuartos').
+caracteristica(30,'tenga cuatro cuartos o mas').
+
+caracteristica(31,'tenga cochera').
+
+caracteristica(32,'tenga agua potable').
+caracteristica(33,'tenga gas').
+
+caracteristica(34,'tenga pileta').
+caracteristica(35, 'tenga ascensor').
+
